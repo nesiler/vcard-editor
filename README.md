@@ -15,8 +15,6 @@ A powerful desktop application for managing and editing VCF (vCard) contact file
   - Make last word uppercase
   - Replace/delete text
   - Find matches from reference list
-- Dark theme UI
-- Multi-language support
 
 ## Requirements
 
@@ -30,7 +28,7 @@ A powerful desktop application for managing and editing VCF (vCard) contact file
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/vcard-editor.git
+git clone https://github.com/nesiler/vcard-editor.git
 cd vcard-editor
 ```
 
@@ -67,14 +65,6 @@ python main.py
    - Replace/Delete Text: Find and replace text in names
    - Delete Selected: Remove selected contacts
    - Find Matches: Find contacts matching a reference list
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
